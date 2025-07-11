@@ -208,7 +208,7 @@
     "pkcs11js": "^2.1.6",
     "pkijs": "^3.2.4",
     "posthog-node": "^3.6.2",
-    "probot": "^13.3.8",
+    "probot": "^13.4.6",
     "safe-regex": "^2.1.1",
     "scim-patch": "^0.8.3",
     "scim2-parse-filter": "^0.2.10",
